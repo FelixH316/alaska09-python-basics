@@ -1,6 +1,7 @@
 # *********************************************************
 # CLASS 01 EXERCISES 02
 # *********************************************************
+
 # HW 01 - Recopilación y muestra de datos
 print("RECOPILACIÓN Y MUESTRA DE DATOS")
 name = input("Ingresa tu nombre: ")
