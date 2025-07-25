@@ -1,5 +1,5 @@
 # *********************************************************
-# CLASS 01 EXERCISES 03
+# COURSE 09 EXERCISES 03
 # *********************************************************
 """
 Vamos practicar el uso de estructuras condicionales como el if, else y

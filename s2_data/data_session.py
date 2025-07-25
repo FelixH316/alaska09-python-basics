@@ -1,5 +1,5 @@
 # *********************************************************
-# CLASS 01 SECTION 02
+# COURSE 09 SESSION 02
 # *********************************************************
 
 # Si es el mismo dato utiliza el mismo espacio de memoria
